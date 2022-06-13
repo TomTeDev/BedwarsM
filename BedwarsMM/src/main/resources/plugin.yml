@@ -1,0 +1,11 @@
+name: BedwarsMM
+version: ${project.version}
+main: bedwars.bedwarsmm.Bedwars
+prefix: BedwarsMM
+authors: [ MuchoMore ]
+description: Bedwars Plugin
+website: https://www.mc-market.org/threads/674601/
+commands:
+  join:
+  spawn:
+  debugg:
